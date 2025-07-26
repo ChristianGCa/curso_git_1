@@ -47,3 +47,11 @@ https://github.com/ChristianGCa
 Imagem com link:
 
 [![Repositório](img/arrow.png)](https://github.com/ChristianGCa)
+
+### Código da função soma
+
+```javasscript
+function soma(a, b) {
+    return a + b;
+}
+```
