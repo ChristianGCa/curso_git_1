@@ -55,3 +55,9 @@ function soma(a, b) {
     return a + b;
 }
 ```
+
+### Tarefas a fazer
+
+- [x] Área de membros
+- [] Sistema de bônus
+- [x] CSS do rodapé
