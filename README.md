@@ -28,6 +28,16 @@
 2. Alterar senha
 3. Histórico de compras
 
-### Imagem
+### Imagem local
 
 ![Calculadora em Python](img/img.png)
+
+### Imagem externa
+
+![Logotipo do Python](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/150px-Python.svg.png)
+
+### Links interessantes
+
+[Google](https://www.google.com)
+
+https://github.com/ChristianGCa/curso_git_1
